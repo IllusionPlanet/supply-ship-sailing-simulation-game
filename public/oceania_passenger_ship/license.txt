@@ -1,0 +1,11 @@
+Model Information:
+* title:	Oceania Passenger ship
+* source:	https://sketchfab.com/3d-models/oceania-passenger-ship-1a861f33b3924d4b86dcbe7c7d1c0884
+* author:	martyn169 (https://sketchfab.com/martyn169)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Oceania Passenger ship" (https://sketchfab.com/3d-models/oceania-passenger-ship-1a861f33b3924d4b86dcbe7c7d1c0884) by martyn169 (https://sketchfab.com/martyn169) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
